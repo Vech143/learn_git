@@ -1,0 +1,1 @@
+this is the second file i wanted to add via the whole adding git add command
